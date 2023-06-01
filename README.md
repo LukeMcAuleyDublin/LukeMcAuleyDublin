@@ -1,5 +1,7 @@
 
+<!--
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=lukemcauleydublin&count_private=true&theme=tokyonight&showicons=true)]()
+-->
 <!--
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lukemcauleydublin&langs_count=15&theme=tokyonight)]()
 -->
